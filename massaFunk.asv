@@ -1,0 +1,5 @@
+[m, dm] = massaFunk(t);
+m = 20
+bränsle = 10
+
+if t => 10 && m <=20
