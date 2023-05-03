@@ -2,5 +2,5 @@
 
 fart = 2000
 
-u_x =fart * cos()
-u_y = 
+u_x = fart * cos(vinkel(t));
+u_y = fart * sin(vinkel(t));

@@ -1,0 +1,5 @@
+function dy = mobiusTest(t,y)
+
+dy=y(2);
+    y(3);
+    -t*y(1)-3y(1)y(2)+y(3)];

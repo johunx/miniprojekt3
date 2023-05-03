@@ -5,7 +5,7 @@ b = tspan(2);
 
 t = linspace(a,b,n+1);
 h = t(2)-t(1);
-y = zeros(1,length(t));
+y = zeros(length(y1),length(t));
 y(1) = y1;
 
 for i = 1:n

@@ -1,4 +1,4 @@
-function [t,y] = odeRK4(fun, y1, tspan,n)
+function [t,y] = odeRK4(fun,tspan,y1,n)
 
 a = tspan(1);
 b = tspan(2);
