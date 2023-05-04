@@ -1,0 +1,14 @@
+function xyBiss  = rocketEquation(t,xy)
+
+c = 0.3
+g = 9.82
+km = 2000
+massa = 20
+bransle = 10
+t = 5
+[m,dm] = massaFunk(t);
+[u_x, u_y] = styrningsFunk(t);
+
+
+
+xyBiss = (-c/m)sqrt()
