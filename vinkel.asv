@@ -8,11 +8,11 @@ elseif t < 13
     alpha = 3*pi/2;
 elseif t < 17
     alpha = 7*pi/4;
-elseif t < 26
+elseif t < 
     alpha = 3*pi/2;
-elseif t < 33
+elseif t < 36
     alpha = pi;
 else 
-    alpha = 5*pi/4;
+    alpha = pi;
 end
 end
