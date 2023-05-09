@@ -3,7 +3,7 @@ function zPrim  = rocketEquation(t,z)
 c = 0.3;
 g = 9.82;
 km = 2000;
-t;
+
 %massa = 20
 %bransle = 10
 %t = 5

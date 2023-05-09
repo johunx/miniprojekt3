@@ -1,0 +1,4 @@
+function[value, isterminal] = events(t, z)
+
+value = z(3)- 480;
+isterminal = 1;

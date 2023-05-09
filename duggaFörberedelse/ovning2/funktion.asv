@@ -1,0 +1,6 @@
+function dy = funktion(t,ybv)
+
+dy = [y(2)
+    
+
+]
